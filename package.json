@@ -1,0 +1,21 @@
+{
+  "name": "redux",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.0",
+    "oauthsimple": "^0.0.1",
+    "qs": "^6.5.1",
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0",
+    "react-scripts": "1.0.17",
+    "v3-yelp-api": "^1.0.2",
+    "yelp-fusion": "^1.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
